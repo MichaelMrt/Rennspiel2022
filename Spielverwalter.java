@@ -125,7 +125,6 @@ public class Spielverwalter
             rundenzeitTafel.rotiere(kameraDrehgeschwindigkeit, yAchse, ortsvektor);
             fahrerTafel.rotiere(kameraDrehgeschwindigkeit, yAchse, ortsvektor);
             kameraDrehung= kameraDrehung+0.05;
-            System.out.println(kameraDrehung);
             Sys.warte();
         }  
         //Kamera wird zurückgedreht zum Ursprungspunkt
