@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gerade
+comment1.params=pX\ pY\ pZ\ xLaenge\ yLaenge\ zLaenge
+comment1.target=Gerade(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ gibX()
+comment3.params=
+comment3.target=double\ gibZ()
+comment4.params=
+comment4.target=int\ gibXLaenge()
+comment5.params=
+comment5.target=int\ gibZLaenge()
+comment6.params=pDateiname
+comment6.target=void\ setzeTextur(java.lang.String)
+comment7.params=r\ g\ b
+comment7.target=void\ setzeFarbe(int,\ int,\ int)
+numComments=8

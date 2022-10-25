@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=pHoehe
+comment1.target=Map(int)
+comment2.params=
+comment2.target=Gerade[]\ gibGeradenArray()
+comment3.params=
+comment3.target=Gerade\ gibZiellinie()
+comment4.params=
+comment4.target=Gerade\ gibGerade4()
+numComments=5

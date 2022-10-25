@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Spielverwalter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Spielverwalter()
+comment3.params=
+comment3.target=void\ hauptschleife()
+comment4.params=
+comment4.target=void\ namenEingabe()
+numComments=5
