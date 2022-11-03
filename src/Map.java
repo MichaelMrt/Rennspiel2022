@@ -1,4 +1,3 @@
-import GLOOP.*;
 
 public class Map
 {
@@ -18,7 +17,7 @@ public class Map
 
         meineGerade7 = new Gerade(0,5,-2600,1300,1,200);//Ziellinie
         meineGerade7.setzeFarbe(1,1,1);
-        meineGerade7.setzeTextur("checkeredflag.jpg");
+        meineGerade7.setzeTextur("images/checkeredflag.jpg");
         //Geraden in einen Array packen
         geradenArray = new Gerade[6];
         geradenArray[0] = meineGerade1;

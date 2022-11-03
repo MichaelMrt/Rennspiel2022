@@ -30,11 +30,11 @@ public class Spielverwalter
     public Spielverwalter(){
         cam = new GLKamera();
         licht = new GLLicht();
-        himmel = new GLHimmel("himmel.jpg");    
+        himmel = new GLHimmel("images/himmel.jpg");    
         wagen= new Rennwagen(0,25,0);
         tas = new GLTastatur();
         //   richtung = new GLVektor(0,0,0); //Fahrgeschwindigkeit
-        boden = new GLBoden("wiese.jpg");
+        boden = new GLBoden("images/wiese.jpg");
         yAchse = new GLVektor (0,1,0);
         cam.verschiebe(0,200,0);
         rotierGeschwindigkeit = 0.1;

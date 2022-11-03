@@ -68,16 +68,16 @@ public class Rennwagen
         reifenHL = new GLZylinder(x-25,y-10,z+30,12,5);
         reifenHL.drehe(0,90,0);
         // reifenHL.setzeFarbe(0,0,0);
-        reifenHL.setzeTextur("reifen.jpg");
+        reifenHL.setzeTextur("images/reifen.jpg");
         reifenHR = new GLZylinder(x+25,y-10,z+30,12,5);
         reifenHR.drehe(0,90,0);
-        reifenHR.setzeTextur("reifen.jpg");
+        reifenHR.setzeTextur("images/reifen.jpg");
         reifenVL = new GLZylinder(x-25,y-10,z-30,12,5);
         reifenVL.drehe(0,90,0);
-        reifenVL.setzeTextur("reifen.jpg");
+        reifenVL.setzeTextur("images/reifen.jpg");
         reifenVR = new GLZylinder(x+25,y-10,z-30,12,5);
         reifenVR.drehe(0,90,0);
-        reifenVR.setzeTextur("reifen.jpg");   
+        reifenVR.setzeTextur("images/reifen.jpg");   
         karosserie2 = new GLQuader(x,y-5,z,30,15,120); //untere laengere Stueck
         karosserie2.setzeFarbe(0,0,1);       
         karosserie3 = new GLQuader(x,y-5,z+54,50,15,15); //hintere untere Stueck
