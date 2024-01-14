@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Spielverwalter",
+            "request": "launch",
+            "mainClass": "Spielverwalter",
+            "projectName": "Rennspiel2022_a33517b7"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
