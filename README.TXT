@@ -1,3 +1,5 @@
+Zuletzt ausgeführt 21.07.2024 mit GLOOP 3.7 und JRE 1.8.0
+(Schnelligkeit des Spiels könnte Abhängig von der PC-Leistungsstärke sein)
 ------------------------------------------------------------------------
 Dies ist die README-Datei des Projekts. Hier sollten Sie Ihr Projekt
 beschreiben.
