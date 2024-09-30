@@ -1,12 +1,8 @@
 {
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.referencedLibraries": [
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\GLOOP.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\gluegen-rt.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\gluegen-rt-natives-windows-amd64.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\gluegen-rt-natives-windows-i586.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\jogl-all - Kopie.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\jogl-all.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\jogl-all-natives-windows-amd64.jar",
-        "c:\\dev\\GLOOP-Projekte\\GLOOP-Installation 3.7\\lib\\jogl-all-natives-windows-i586.jar"
+       "lib/**/*.jar"
     ]
 }
